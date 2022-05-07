@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 81,
+    "open-php-html-js-in-browser.customBrowserPath": "C:\\Users\\TITO\\AppData\\Local\\Programs\\Opera\\opera.exe",
+    "open-php-html-js-in-browser.customHost": "localhost:80",
+    "open-php-html-js-in-browser.selectedBrowser": "Chrome",
+    "open-php-html-js-in-browser.urlToOpen": "custom",
+    "open-php-html-js-in-browser.customUrlToOpen": "http://localhost/Proyectos/${relativeDirnameDocumentRoot}/${fileBasename}",
+    "open-php-html-js-in-browser.documentRootFolder": "D:\\xampp\\htdocs\\Proyectos"
+}
