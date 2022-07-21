@@ -1,4 +1,3 @@
-
 <?php include "header.php";?>
-<?php include "home.php";?>
+<?php include "body-item.php";?>
 <?php include "footer.php";?>
